@@ -1,7 +1,7 @@
 
 
 
-### Hi there 👋 I am [Omar Lahmar](https://apurvshah007.github.io)
+### Hi there 👋 I am [Omar Lahmar]
 
 <br />
 <br />
