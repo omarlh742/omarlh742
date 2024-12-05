@@ -1,10 +1,3 @@
----
-title: ApurvShah
-date: '2020-26-07'
-spoiler: Dynamic Realtime Readme Template
-categories: ["dynamic", "all-profile"]
-githubUsername: 'ApurvShah007'
----
 
 
 
