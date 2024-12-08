@@ -1,7 +1,7 @@
 
 
 
-### Hi there 👋 I am [Omar Lahmar]
+### Hi there 👋 I am [ Omar ]
 
 <br />
 <br />
